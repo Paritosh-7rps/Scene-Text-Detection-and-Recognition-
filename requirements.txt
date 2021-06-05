@@ -15,6 +15,7 @@ pyspellchecker==0.6.2
 opencv-python-headless
 Shapely
 
+git clone https://github.com/tesseract-ocr/tesseract
 
 
 
