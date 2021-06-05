@@ -12,6 +12,7 @@ import pytesseract
 from spellchecker import SpellChecker
 from pipeline import *
 spell = SpellChecker()
+!sudo apt install tesseract-ocr
 def main():
 
    # st.title("Scene Text Detection And Recognition Using EAST And Tesseract")
