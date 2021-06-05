@@ -12,7 +12,6 @@ opencv-contrib-python==4.1.2.30
 opencv-python==4.1.2.30   
 
 pytesseract== 0.3.7
-!sudo apt install tesseract-ocr
 pip install pyspellchecker
 
 opencv-python-headless
