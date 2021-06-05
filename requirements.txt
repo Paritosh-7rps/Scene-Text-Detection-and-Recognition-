@@ -14,3 +14,4 @@ pyspellchecker==0.6.2
 
 opencv-python-headless
 Shapely
+tesseract-ocr
